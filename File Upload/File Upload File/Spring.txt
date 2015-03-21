@@ -1,0 +1,4 @@
+value="category/{id}"
+
+public string getById(@PathVariable("id") int id,ModelMap map)
+"redirect:category"
